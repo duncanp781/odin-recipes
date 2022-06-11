@@ -1,0 +1,18 @@
+ul {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+p {
+  font-size: 12px;
+
+}
+h2 {
+  color: red;
+}
+
+#crazy{
+  font-size: 25px;
+  background-color: aquamarine;
+  color: chartreuse;
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+}
